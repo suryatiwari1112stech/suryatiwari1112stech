@@ -1,105 +1,141 @@
-# Hi, I'm Surya Tiwari
+<div align="center">
 
-### AI/ML Enthusiast | Python Developer | Flask Web Developer
+# Hi, I'm Surya Tiwari 👋
 
-I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning. I am passionate about building practical software solutions, learning new technologies, solving problems, and continuously improving my technical skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Python+Developer;Flask+Web+Developer;Software+Developer;Building+Real-World+Projects" alt="Typing SVG">
+
+<p>
+  <a href="https://github.com/suryatiwari1112stech">
+    <img src="https://komarev.com/ghpvc/?username=suryatiwari1112stech&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views">
+  </a>
+</p>
+
+</div>
+
+---
 
 ## About Me
 
-* B.Tech student specializing in Artificial Intelligence and Machine Learning
-* Python developer focused on backend and web development
-* Building web applications using Flask
-* Interested in Artificial Intelligence and Machine Learning
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, passionate about software development, problem solving, and building real-world applications.
+
+I work primarily with Python and Flask and enjoy creating practical web applications while continuously exploring Artificial Intelligence and Machine Learning.
+
+* B.Tech AI/ML Student
+* Python Developer
+* Flask Web Developer
+* Interested in AI and Machine Learning
+* Learning Backend Development and REST APIs
 * Practicing Data Structures and Algorithms
-* Exploring REST APIs and database development
-* Interested in building real-world software projects
-* Currently improving my backend development and AI/ML skills
+* Building real-world software projects
+
+---
 
 ## Tech Stack
 
-### Programming Languages
+<div align="center">
 
-* Python
-* JavaScript
-* HTML
-* CSS
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,numpy,pandas,git,github,vscode" />
 
-### Backend
+</div>
 
-* Flask
-* REST APIs
-
-### Database
-
-* SQLite
-
-### Data and Machine Learning
-
-* NumPy
-* Pandas
-* Machine Learning
-
-### Tools and Platforms
-
-* Git
-* GitHub
-* VS Code
-* Netlify
-* Render
-* Vercel
+---
 
 ## Featured Projects
 
-### Job Portal System
+<div align="center">
 
-A web-based platform designed to connect job seekers and employers.
+<a href="https://github.com/suryatiwari1112stech/JOB-PROTAL-SYSTEM">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryatiwari1112stech&repo=JOB-PROTAL-SYSTEM&theme=tokyonight&hide_border=true" />
+</a>
 
-Technologies: Python, Flask, HTML, CSS, SQLite
+<a href="https://github.com/suryatiwari1112stech/blog-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryatiwari1112stech&repo=blog-management-system&theme=tokyonight&hide_border=true" />
+</a>
 
-### Blog Management System
+<a href="https://github.com/suryatiwari1112stech/flask-complaint-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryatiwari1112stech&repo=flask-complaint-system&theme=tokyonight&hide_border=true" />
+</a>
 
-A Flask-based web application for creating, managing, and displaying blog content.
+<a href="https://github.com/suryatiwari1112stech/File-sharing-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryatiwari1112stech&repo=File-sharing-system&theme=tokyonight&hide_border=true" />
+</a>
 
-Technologies: Python, Flask, HTML, CSS, SQLite
+</div>
 
-### Smart Complaint Management System
+---
 
-A web application for submitting, tracking, and managing complaints through an admin dashboard.
+## GitHub Statistics
 
-Technologies: Python, Flask, SQLite, HTML, CSS, JavaScript
+<div align="center">
 
-### Notes Sharing Platform
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryatiwari1112stech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-A web platform for uploading and sharing study notes and files.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryatiwari1112stech&layout=compact&theme=tokyonight&hide_border=true" />
 
-Technologies: Python, Flask, HTML, CSS, SQLite
+</div>
+
+---
+
+## Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=suryatiwari1112stech&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryatiwari1112stech&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
 
 ## Currently Learning
 
-* Advanced Python
-* Flask and Backend Development
-* REST API Development
-* Database Design
-* Data Structures and Algorithms
-* Machine Learning
-* Artificial Intelligence
+<div align="center">
+
+Python → Flask → REST APIs → Backend Development → DSA → Machine Learning → Artificial Intelligence
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/suryatiwari1112stech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/surya-tiwari-6810ba387/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/suryatiwari1112/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
 
 ## My Goal
 
-My goal is to become a skilled AI/ML Engineer and Software Developer capable of building scalable, intelligent, and real-world technology solutions.
+To become a skilled AI/ML Engineer and Software Developer capable of building intelligent, scalable, and impactful technology solutions.
 
-## Connect With Me
+---
 
-LinkedIn: https://www.linkedin.com/in/surya-tiwari-6810ba387/
+<div align="center">
 
-GitHub: https://github.com/suryatiwari1112stech
+### Let's Build Something Innovative 🚀
 
-LeetCode: https://leetcode.com/u/suryatiwari1112/
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" />
 
-## Thank You
-
-Thanks for visiting my GitHub profile.
-
-I'm always interested in learning, building, collaborating, and exploring new technologies.
-
-Let's build something innovative together.
+</div>
