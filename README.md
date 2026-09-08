@@ -178,16 +178,6 @@ That's why I'm focusing on projects, experimentation and consistent practice rat
 
 <br>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=suryatiwari1112stech&theme=tokyonight&hide_border=true&border_radius=12"
-       width="75%"
-       alt="GitHub Contribution Streak"/>
-
-</p>
-
 ### Contribution streak
 
 <div align="center">
