@@ -139,3 +139,26 @@ To become a skilled AI/ML Engineer and Software Developer capable of building in
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" />
 
 </div>
+
+<div align="center">
+
+### Let's Build, Learn & Innovate Together 🚀
+
+I'm always open to **collaborating on AI/ML projects, Python applications, web development, and innovative software ideas.**
+
+If you have an interesting project, idea, or collaboration opportunity, **let's connect and build something impactful together.**
+
+<a href="https://github.com/suryatiwari1112stech">
+<img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/surya-tiwari-6810ba387/">
+<img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" />
+
+</div>
+
