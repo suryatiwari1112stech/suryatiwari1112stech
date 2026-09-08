@@ -169,15 +169,28 @@ That's why I'm focusing on projects, experimentation and consistent practice rat
 
 ---
 
-### GitHub at a glance
+## 📊 GitHub at a glance
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github.githubassets.com/images/modules/site/home-campaign/hero-dracula.svg"
+    width="48%"
+    alt="GitHub Developer"
+  />
+  <img
+    src="https://github.githubassets.com/images/modules/site/home-campaign/desktop.png"
+    width="48%"
+    alt="GitHub Development"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryatiwari1112stech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="175" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryatiwari1112stech&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="175" alt="Most used languages"/>
-
-</div>
-
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=suryatiwari1112stech&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
+</p>
 ---
 
 ### Contribution streak
