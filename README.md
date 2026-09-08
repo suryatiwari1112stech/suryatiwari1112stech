@@ -1,117 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Surya%20Tiwari&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20in%20Progress%20%7C%20Python%20Developer%20%7C%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI%2FML+Enthusiast+%7C+Python+Developer;Flask+%7C+Backend+%7C+Web+Development;Building+Real-World+Software+Solutions;Learning+Machine+Learning+%26+Artificial+Intelligence;Turning+Ideas+Into+Working+Products;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Surya%20Tiwari&fontSize=58&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20&animation=fadeIn&color=0:0f172a,50:1d4ed8,100:06b6d4&fontColor=ffffff" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&center=true&vCenter=true&width=780&lines=I+build+things+I+can+learn+from.;Python+%7C+Flask+%7C+Web+Development;Exploring+Machine+Learning+%26+Artificial+Intelligence;From+an+idea+to+a+working+application.;Learning+by+building+real+projects." alt="Typing animation"/>
+
+<br><br>
+
 <a href="https://github.com/suryatiwari1112stech">
-<img src="https://komarev.com/ghpvc/?username=suryatiwari1112stech&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/surya-tiwari-6810ba387/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/suryatiwari1112/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode"/>
 </a>
 
-<a href="https://github.com/suryatiwari1112stech?tab=followers">
-<img src="https://img.shields.io/github/followers/suryatiwari1112stech?label=FOLLOWERS&style=for-the-badge&color=06b6d4" alt="Followers"/>
-</a>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=suryatiwari1112stech&label=PROFILE%20VISITORS&color=2563eb&style=flat-square" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-<div align="center">
+## A little about me
 
-## About Me
+Hi, I'm **Surya**.
 
-</div>
+I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning**, but my interest goes beyond a single technology.
 
-I'm **Surya Tiwari**, a B.Tech student specializing in **Artificial Intelligence and Machine Learning**, with a strong interest in **Software Development, Backend Development, and AI-powered applications**.
+I like taking an idea, figuring out how it should work, writing the code, breaking it a few times, fixing it, and eventually turning it into something people can actually use.
 
-I enjoy transforming ideas into practical projects and continuously improving my skills through hands-on development.
+Right now, most of my development work revolves around **Python, Flask, web development and databases**, while I'm gradually moving deeper into **Machine Learning and AI**.
 
-My current focus is building strong foundations in **Python, Flask, Backend Development, Data Structures & Algorithms, Machine Learning, and Artificial Intelligence**.
+I'm still learning, and that's exactly what I like about development.
 
-```text
-                  SURYA TIWARI
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-       Software      AI / ML      Problem
-     Development    Learning      Solving
-          │            │            │
-          └────────────┼────────────┘
-                       │
-               Real-World Projects
-```
+> **Build something. Understand why it works. Improve it. Repeat.**
 
 ---
 
-<div align="center">
+## What I'm working towards
 
-## What I Do
+I'm building my skills step by step toward becoming a **Software Developer with a strong AI/ML foundation**.
 
-<table>
-<tr>
-<td align="center" width="25%">
+My current focus:
 
-### Python Development
-
-Building practical applications and strengthening my Python programming skills.
-
-</td>
-
-<td align="center" width="25%">
-
-### Backend Development
-
-Creating web applications and backend systems using Flask, APIs and databases.
-
-</td>
-
-<td align="center" width="25%">
-
-### AI / ML
-
-Exploring Machine Learning and Artificial Intelligence to build intelligent solutions.
-
-</td>
-
-<td align="center" width="25%">
-
-### Problem Solving
-
-Practicing DSA and improving logical thinking through coding challenges.
-
-</td>
-</tr>
-</table>
-
-</div>
+* Writing better and cleaner Python
+* Building stronger Flask and backend applications
+* Understanding APIs and database design
+* Improving problem-solving through DSA
+* Learning the fundamentals of Machine Learning
+* Exploring practical AI applications
+* Turning college projects into better real-world products
 
 ---
 
-<div align="center">
+## My current toolkit
 
-## Tech Stack
+<div align="center">
 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 
+<br><br>
+
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=flask,sqlite" />
 
-### Data & AI / ML
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python" />
+### Data & Machine Learning
 
-<br>
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+<br><br>
 
-### Tools & Platforms
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
 
@@ -119,189 +90,178 @@ Practicing DSA and improving logical thinking through coding challenges.
 
 ---
 
-<div align="center">
+## Things I've built
 
-## Featured Projects
+I prefer projects that solve a problem instead of projects that only look good in a screenshot.
 
-</div>
+### Job Portal System
 
-### 01. Job Portal System
+A web application built around the basic workflow of connecting job seekers with opportunities.
 
-A web-based platform designed to connect job seekers and employers through an organized job portal system.
-
-**Core Technologies:** Python • Flask • HTML • CSS • SQLite
+**Built with:** Python · Flask · HTML · CSS · SQLite
 
 <a href="https://github.com/suryatiwari1112stech/job-portal-system">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
 </a>
 
 ---
 
-### 02. Smart Complaint Management System
+### Smart Complaint Management System
 
-A complete complaint management platform where users can submit complaints and administrators can manage and track them through a dedicated dashboard.
+A complaint management application where users can submit complaints and administrators can manage and track them through a dedicated dashboard.
 
-**Core Technologies:** Python • Flask • SQLite • HTML • CSS • JavaScript
+**Built with:** Python · Flask · SQLite · HTML · CSS · JavaScript
 
 <a href="https://github.com/suryatiwari1112stech/complaint-management-system">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
 </a>
 
 ---
 
-### 03. Blog Management System
+### Blog Management System
 
-A Flask-based web application designed for creating, managing and displaying blog content through a structured interface.
+A Flask-based application for creating, managing and presenting blog content through a structured web interface.
 
-**Core Technologies:** Python • Flask • HTML • CSS • SQLite
+**Built with:** Python · Flask · HTML · CSS · SQLite
 
 <a href="https://github.com/suryatiwari1112stech/blog-management-system">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
 </a>
 
 ---
 
-### 04. Notes Sharing Platform
+### Notes Sharing Platform
 
-A web-based platform focused on sharing and managing educational notes and files.
+A web application focused on making educational notes and files easier to upload, manage and share.
 
-**Core Technologies:** Python • Flask • HTML • CSS • SQLite
+**Built with:** Python · Flask · HTML · CSS · SQLite
 
 <a href="https://github.com/suryatiwari1112stech/notes-sharing-platform">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
 </a>
 
 ---
 
-<div align="center">
-
-## Development Journey
+## How I'm learning
 
 ```text
-Python
-   ↓
-Flask & Backend Development
-   ↓
-REST APIs & Databases
-   ↓
-Data Structures & Algorithms
-   ↓
-Machine Learning
-   ↓
-Artificial Intelligence
-   ↓
-AI-Powered Applications
-   ↓
-Software Engineering
+                     BUILD
+                       │
+                       ▼
+                  FIND A PROBLEM
+                       │
+                       ▼
+                  WRITE THE CODE
+                       │
+                       ▼
+                 TEST & DEBUG
+                       │
+                       ▼
+                    IMPROVE
+                       │
+                       ▼
+                    REPEAT
 ```
 
-</div>
+I learn best when theory has something practical attached to it.
+
+That's why I'm focusing on projects, experimentation and consistent practice rather than simply collecting technologies.
 
 ---
 
-<div align="center">
-
-## GitHub Analytics
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=suryatiwari1112stech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryatiwari1112stech&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-
-</div>
-
----
+## GitHub at a glance
 
 <div align="center">
 
-## Contribution Streak
+<img src="https://github-readme-stats.vercel.app/api?username=suryatiwari1112stech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="175" alt="GitHub statistics"/>
 
-<img src="https://streak-stats.demolab.com?user=suryatiwari1112stech&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryatiwari1112stech&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="175" alt="Most used languages"/>
 
 </div>
 
 ---
 
+## Contribution streak
+
 <div align="center">
 
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryatiwari1112stech&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=suryatiwari1112stech&theme=tokyonight&hide_border=true&border_radius=10" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+## What I'm learning next
+
 <div align="center">
 
-## Currently Learning
-
-<img src="https://img.shields.io/badge/Python-Advanced%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Deepening-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-Practice-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Building-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs-Building-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Practicing-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Exploring-7C3AED?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
+## Beyond the code
 
-## Coding & Professional Profiles
+I care about more than making an application run.
 
-<a href="https://github.com/suryatiwari1112stech">
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+I'm trying to get better at:
 
-<a href="https://www.linkedin.com/in/surya-tiwari-6810ba387/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Problem solving**
+Understanding the problem before jumping into the code.
 
-<a href="https://leetcode.com/u/suryatiwari1112/">
-<img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+**Clean development**
+Writing code that is easier to understand, maintain and improve.
 
-</div>
+**Product thinking**
+Thinking about how a real person would actually use what I build.
+
+**Continuous learning**
+Technology changes quickly. I want my ability to learn to keep up with it.
+
+---
+
+## Where I'm headed
+
+The long-term goal is simple:
+
+**Become the kind of developer who can take a problem from an idea to a working solution.**
+
+Software development gives me the foundation.
+
+AI and Machine Learning give me the direction.
+
+And projects give me the experience to connect the two.
 
 ---
 
 <div align="center">
 
-## My Vision
+## Have an idea worth building?
 
-**Build. Learn. Solve. Innovate.**
+I'm interested in **software projects, AI/ML ideas, Python applications, web development and meaningful collaborations.**
 
-My goal is to become a strong **AI/ML Engineer and Software Developer** capable of designing intelligent, scalable and impactful technology solutions.
+If you're building something interesting, experimenting with an idea, or simply want to connect with another developer who loves learning by building —
 
-I believe the best way to learn technology is to **build real things, solve real problems and keep improving every day.**
-
-</div>
-
----
-
-<div align="center">
-
-## Let's Build Something Impactful
-
-I'm open to **AI/ML projects, Python development, web applications, backend projects, collaborations and innovative software ideas.**
-
-Have an interesting idea?
-
-**Let's turn it into something real.**
+### Let's talk.
 
 <br>
 
 <a href="https://www.linkedin.com/in/surya-tiwari-6810ba387/">
-<img src="https://img.shields.io/badge/Let's%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/suryatiwari1112stech?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_My_Work-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,50:1d4ed8,100:06b6d4" width="100%"/>
 
 </div>
