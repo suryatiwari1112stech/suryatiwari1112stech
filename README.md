@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Surya%20Tiwari&fontSize=58&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20&animation=fadeIn&color=0:0f172a,50:1d4ed8,100:06b6d4&fontColor=ffffff" width="100%"/>
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&center=true&vCenter=true&width=780&lines=I+build+things+I+can+learn+from.;Python+%7C+Flask+%7C+Web+Development;Exploring+Machine+Learning+%26+Artificial+Intelligence;From+an+idea+to+a+working+application.;Learning+by+building+real+projects." alt="Typing animation"/>
 
 <br><br>
@@ -28,61 +26,61 @@
 
 ---
 
-## A little about me
+### A little about me
 
-Hi, I'm **Surya**.
+Hi, I'm Surya.
 
-I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning**, but my interest goes beyond a single technology.
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, but my interest goes beyond a single technology.
 
 I like taking an idea, figuring out how it should work, writing the code, breaking it a few times, fixing it, and eventually turning it into something people can actually use.
 
-Right now, most of my development work revolves around **Python, Flask, web development and databases**, while I'm gradually moving deeper into **Machine Learning and AI**.
+Right now, most of my development work revolves around Python, Flask, web development and databases, while I'm gradually moving deeper into Machine Learning and AI.
 
 I'm still learning, and that's exactly what I like about development.
 
-> **Build something. Understand why it works. Improve it. Repeat.**
+> *"Build something. Understand why it works. Improve it. Repeat."*
 
 ---
 
-## What I'm working towards
+### What I'm working towards
 
-I'm building my skills step by step toward becoming a **Software Developer with a strong AI/ML foundation**.
+I'm building my skills step by step toward becoming a Software Developer with a strong AI/ML foundation.
 
-My current focus:
+**My current focus:**
 
-* Writing better and cleaner Python
-* Building stronger Flask and backend applications
-* Understanding APIs and database design
-* Improving problem-solving through DSA
-* Learning the fundamentals of Machine Learning
-* Exploring practical AI applications
-* Turning college projects into better real-world products
+- Writing better and cleaner Python
+- Building stronger Flask and backend applications
+- Understanding APIs and database design
+- Improving problem-solving through DSA
+- Learning the fundamentals of Machine Learning
+- Exploring practical AI applications
+- Turning college projects into better real-world products
 
 ---
 
-## My current toolkit
+### My current toolkit
 
 <div align="center">
 
-### Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 
 <br><br>
 
-### Backend & Database
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=flask,sqlite" />
 
 <br><br>
 
-### Data & Machine Learning
+**Data & Machine Learning**
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 
 <br><br>
 
-### Development Tools
+**Development Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
 
@@ -90,51 +88,53 @@ My current focus:
 
 ---
 
-## Things I've built
+### Things I've built
 
 I prefer projects that solve a problem instead of projects that only look good in a screenshot.
 
-### Job Portal System
+<br>
+
+**Job Portal System**
 
 A web application built around the basic workflow of connecting job seekers with opportunities.
 
-**Built with:** Python · Flask · HTML · CSS · SQLite
+`Built with:` Python · Flask · HTML · CSS · SQLite
 
 <a href="https://github.com/suryatiwari1112stech/job-portal-system">
 <img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
 </a>
 
----
+<br><br>
 
-### Smart Complaint Management System
+**Smart Complaint Management System**
 
 A complaint management application where users can submit complaints and administrators can manage and track them through a dedicated dashboard.
 
-**Built with:** Python · Flask · SQLite · HTML · CSS · JavaScript
+`Built with:` Python · Flask · SQLite · HTML · CSS · JavaScript
 
 <a href="https://github.com/suryatiwari1112stech/complaint-management-system">
 <img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
 </a>
 
----
+<br><br>
 
-### Blog Management System
+**Blog Management System**
 
 A Flask-based application for creating, managing and presenting blog content through a structured web interface.
 
-**Built with:** Python · Flask · HTML · CSS · SQLite
+`Built with:` Python · Flask · HTML · CSS · SQLite
 
 <a href="https://github.com/suryatiwari1112stech/blog-management-system">
 <img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
 </a>
 
----
+<br><br>
 
-### Notes Sharing Platform
+**Notes Sharing Platform**
 
 A web application focused on making educational notes and files easier to upload, manage and share.
 
-**Built with:** Python · Flask · HTML · CSS · SQLite
+`Built with:` Python · Flask · HTML · CSS · SQLite
 
 <a href="https://github.com/suryatiwari1112stech/notes-sharing-platform">
 <img src="https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
@@ -142,9 +142,9 @@ A web application focused on making educational notes and files easier to upload
 
 ---
 
-## How I'm learning
+### How I'm learning
 
-```text
+```
                      BUILD
                        │
                        ▼
@@ -169,19 +169,18 @@ That's why I'm focusing on projects, experimentation and consistent practice rat
 
 ---
 
-## GitHub at a glance
+### GitHub at a glance
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=suryatiwari1112stech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="175" alt="GitHub statistics"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryatiwari1112stech&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="175" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## Contribution streak
+### Contribution streak
 
 <div align="center">
 
@@ -191,7 +190,7 @@ That's why I'm focusing on projects, experimentation and consistent practice rat
 
 ---
 
-## What I'm learning next
+### What I'm learning next
 
 <div align="center">
 
@@ -206,11 +205,11 @@ That's why I'm focusing on projects, experimentation and consistent practice rat
 
 ---
 
-## Beyond the code
+### Beyond the code
 
 I care about more than making an application run.
 
-I'm trying to get better at:
+**I'm trying to get better at:**
 
 **Problem solving**
 Understanding the problem before jumping into the code.
@@ -226,29 +225,25 @@ Technology changes quickly. I want my ability to learn to keep up with it.
 
 ---
 
-## Where I'm headed
+### Where I'm headed
 
 The long-term goal is simple:
 
 **Become the kind of developer who can take a problem from an idea to a working solution.**
 
 Software development gives me the foundation.
-
 AI and Machine Learning give me the direction.
-
 And projects give me the experience to connect the two.
 
 ---
 
 <div align="center">
 
-## Have an idea worth building?
+### Have an idea worth building?
 
-I'm interested in **software projects, AI/ML ideas, Python applications, web development and meaningful collaborations.**
+I'm interested in software projects, AI/ML ideas, Python applications, web development and meaningful collaborations.
 
-If you're building something interesting, experimenting with an idea, or simply want to connect with another developer who loves learning by building —
-
-### Let's talk.
+If you're building something interesting, experimenting with an idea, or simply want to connect with another developer who loves learning by building — let's talk.
 
 <br>
 
