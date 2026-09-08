@@ -173,9 +173,6 @@ That's why I'm focusing on projects, experimentation and consistent practice rat
 
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryatiwari1112stech&theme=tokyo-night&hide_border=true"
-       width="95%"
-       alt="GitHub Activity Graph"/>
 
 </p>
 
